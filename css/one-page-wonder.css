@@ -148,6 +148,13 @@ p{
   line-height: 20px;
 }
 
+.font-weight-light.mb-3 {
+  color: #ffffff;
+  font-weight: 600 !important;
+  font-size: 20px;
+  line-height: 20px;
+}
+
 .col-lg-4 {
   max-width: 33.3% !important;
   line-height: 30px;
